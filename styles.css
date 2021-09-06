@@ -78,3 +78,15 @@ span {
   
     filter: url(#motion-blur-filter);
   }
+
+#automated-header{
+    
+        background: white;
+        color: black;
+        height: 90px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      
+}  
